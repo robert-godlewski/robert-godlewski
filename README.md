@@ -9,7 +9,7 @@ I'm an aspiring developer who is currently obtaining his certification through C
 
 ## Currently Learning:
 - Python's Flask framework and SQL through Coding Dojo to build a website.
-- Binary Tree Algorithms on LeetCode using python.
+- Algorithms on LeetCode using python.
 
 ## My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.
