@@ -5,14 +5,16 @@ I'm an aspiring developer who is currently obtaining his certification through C
 ## Current Projects:
 - Comet of Dreams (My music production work) website by using HTML/CSS/JavaScript
 - Lat and Long Finder to find locations of project locations for my current job by using Python and SQL.
-- Mini Projects through Coding Dojo that uses Python, SQL, and Flask.
 
 ## Currently Learning:
-- Python's Flask framework and SQL through Coding Dojo to build a website.
+- React.js
 - Algorithms on LeetCode using python.
 
 ## My Music:
-As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.
+As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
+- Spotify: https://open.spotify.com/artist/7gzLG44im4qLiULTjWvuPr?si=4_gDq1S_Q2uunGyJkdNogg&nd=1
+- Apple Music: https://music.apple.com/us/artist/comet-of-dreams/1491678196
+- YouTube Music: https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg
 
 ## Other interests:
 - Pokemon (especially Kanto Region)
