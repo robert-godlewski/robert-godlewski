@@ -7,7 +7,7 @@ I'm an aspiring developer who is currently obtaining his certification through C
 - Lat and Long Finder to find locations of project locations for my current job by using Python and SQL.
 
 ## Currently Learning:
-- React.js
+- Express.js, MongoDB, Mongoose
 - Algorithms on LeetCode using python.
 
 ## My Music:
