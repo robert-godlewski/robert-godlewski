@@ -7,8 +7,8 @@ I'm an aspiring developer who is currently obtaining his certification through C
 - Lat and Long Finder to find locations of project locations for my current job by using Python and SQL.
 
 ## Currently Learning:
-- Express.js, MongoDB, Mongoose
-- Algorithms on LeetCode using python.
+- MERN Full Stack
+- Algorithms on LeetCode using Python and JavaScript.
 
 ## My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
