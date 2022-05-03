@@ -3,6 +3,7 @@
 I'm an full stack/software developer who uses Python/JavaScript to build websites.  I'm also a music producer who writes music and plays guitar, drums, and synthesizers.  My pronouns are he/him.
 
 ## Current Projects:
+- CRM web application to keep track of todos and set reminders to the user.
 - Comet of Dreams (My music production work) website by using HTML/CSS/JavaScript.
 
 ## Currently Learning:
