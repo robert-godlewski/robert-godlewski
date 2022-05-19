@@ -3,7 +3,7 @@
 I'm an full stack/software developer who uses Python/JavaScript to build websites.  I'm also a music producer who writes music and plays guitar, drums, and synthesizers.  My pronouns are he/him.
 
 ## Current Projects:
-- CRM web application to keep track of todos and set reminders to the user.
+- A Social Media App with a group
 - Comet of Dreams (My music production work) website by using HTML/CSS/JavaScript.
 
 ## Currently Learning:
@@ -16,8 +16,9 @@ As mentioned before, I am a music producer who goes by Comet of Dreams.  In musi
 - YouTube Music: https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg
 
 ## Other interests:
-- Pokemon (especially Kanto Region)
-- Star Wars Shows and Movies (Almost all of it!)
+- Pokemon
+- Star Wars Shows and Movies
+- Star Trek Shows
 - Tolkien Books and Movies
 
 ## How to Reach me:
