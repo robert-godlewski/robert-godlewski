@@ -1,4 +1,4 @@
-## About:
+# About:
 
 I came from a non-traditional background in the tech industry. I am a music producer and received my AAAS degree in Music Technology. I still on the side do some music work due to high interest in music, especially in classical and rock genres. I also have about 10 years of experience now working in the civil engineering industry laboratory and support staff. 
 
@@ -6,54 +6,54 @@ My interest in computer science initially started when Minecraft first came out 
 
 I eventually soon after joined Coding Dojo's bootcamp to learn more and build my network of computer programmers to develop problem-solving code. I learned 2 stacks in 6 months (Flask/Python and MERN) to build several projects and continued to learn more by solving problems.
 
-## Skill Sets:
-# Languages:
+# Skill Sets:
+## Languages:
 - JavaScript
 - Python3
 - CSS3
 - HTML5
 
-# Front end:
+## Front end:
 - React.js
 - AJAX
 - JSON
 - RESTful APIs
 - Bootstrap
 
-# Back end:
+## Back end:
 - OOP
 - Flask
 - Node.js
 - Express.js
 
-# Databases:
+## Databases:
 - SQL (MySQL and SQLite)
 - NoSQL (MongoDB and Mongoose)
 
-## Project(s):
-# Current Major Project:
+# Project(s):
+## Current Major Project:
 A Social Media App with a group
 
-# Projects on the side:
+## Projects on the side:
 - CRM web application - Flask (Python) and Bootstrap - https://github.com/robert-godlewski/crm_app.git
 - Comet of Dreams (My music production work) website - Still designing layout and database
 
-## Currently Learning:
+# Currently Learning:
 - Algorithms through Coding Dojo and LeetCode using JavaScript.
 
-## My Music:
+# My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
 - Spotify: https://open.spotify.com/artist/7gzLG44im4qLiULTjWvuPr?si=4_gDq1S_Q2uunGyJkdNogg&nd=1
 - Apple Music: https://music.apple.com/us/artist/comet-of-dreams/1491678196
 - YouTube Music: https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg
 
-## Other interests:
+# Other interests:
 - Pokemon
 - Star Wars Shows and Movies
 - Star Trek Shows
 - Tolkien Books and Movies
 
-## How to Reach me:
+# How to Reach me:
 The best way you can reach me is emailing me through robtechg5@gmil.com
 
 <!--
