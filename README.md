@@ -2,9 +2,12 @@
 
 I'm an full stack/software developer who uses Python/JavaScript to build websites.  I'm also a music producer who writes music and plays guitar, drums, and synthesizers.  My pronouns are he/him.
 
-## Current Projects:
-- A Social Media App with a group
-- Comet of Dreams (My music production work) website by using HTML/CSS/JavaScript.
+## Current Major Project(s):
+A Social Media App with a group
+
+## Projects on the side:
+- CRM web application - Flask (Python) and Bootstrap - https://github.com/robert-godlewski/crm_app.git
+- Comet of Dreams (My music production work) website - Still designing layout and database
 
 ## Currently Learning:
 - Algorithms through Coding Dojo and LeetCode using JavaScript and Python.
