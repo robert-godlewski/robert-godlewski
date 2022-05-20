@@ -32,7 +32,7 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 
 # Project(s):
 ## Current Major Project:
-A Social Media App with a group
+Reddit Clone with a group - Flask (python)
 
 ## Projects on the side:
 - CRM web application - Flask (Python) and Bootstrap - https://github.com/robert-godlewski/crm_app.git
