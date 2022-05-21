@@ -40,6 +40,7 @@ Reddit Clone with a group - Flask (python)
 
 # Currently Learning:
 - Algorithms through Coding Dojo and LeetCode using JavaScript.
+- Django Python Web Framework.
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
