@@ -32,11 +32,11 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 
 # Project(s):
 ## Current Major Project:
-Reddit Clone with a group - Flask (python)
+Comet of Dreams (My music production work) website - Still designing layout and database
 
 ## Projects on the side:
 - CRM web application - Flask (Python) and Bootstrap - https://github.com/robert-godlewski/crm_app.git
-- Comet of Dreams (My music production work) website - Still designing layout and database
+- Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
 
 # Currently Learning:
 - Algorithms through Coding Dojo and LeetCode using JavaScript.
