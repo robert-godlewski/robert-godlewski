@@ -32,7 +32,7 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 
 # Project(s):
 ## Current Major Project:
-- Comet of Dreams (My music production work) website - Django (Python)
+- Comet of Dreams (My music production work) website - Django (Python) - https://github.com/robert-godlewski/CODWebsite.git
 - Pokemon Ranker application - MERN (JavaScript)
 
 ## Projects on the side:
