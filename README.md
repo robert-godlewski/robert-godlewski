@@ -32,7 +32,8 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 
 # Project(s):
 ## Current Major Project:
-Comet of Dreams (My music production work) website - Still designing layout and database
+- Comet of Dreams (My music production work) website - Django (Python)
+- Pokemon Ranker application - MERN (JavaScript)
 
 ## Projects on the side:
 - CRM web application - Flask (Python) and Bootstrap - https://github.com/robert-godlewski/crm_app.git
