@@ -32,6 +32,7 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 
 # Project(s):
 ## Current Major Project:
+- Portfolio Website that provides all of my projects - MERN (JavaScript_ - https://github.com/robert-godlewski/portfolio.git
 - Comet of Dreams (My music production work) website - Django (Python) - https://github.com/robert-godlewski/CODWebsite.git
 - Pokemon Ranker application - MERN (JavaScript) - https://github.com/robert-godlewski/PokemonRanker.git
 
