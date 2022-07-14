@@ -15,13 +15,11 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 
 ## Front end:
 - React.js
-- AJAX
-- JSON
-- RESTful APIs
 - Bootstrap
+- AJAX
 
 ## Back end:
-- OOP
+- Django
 - Flask
 - Node.js
 - Express.js
@@ -30,19 +28,33 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 - SQL (MySQL and SQLite)
 - NoSQL (MongoDB and Mongoose)
 
+## Coding Tools:
+- Git
+- GitHub
+- GitPages
+- JSON
+- RESTful APIs
+- Postman
+- Visual Studio Code
+
+## Coding Concepts:
+- OOP
+- Algorithms
+
 # Project(s):
 ## Current Major Project:
-- Portfolio Website that provides all of my projects - https://robert-godlewski.github.io/
 - Comet of Dreams (My music production work) website - Django (Python) - https://github.com/robert-godlewski/CODWebsite.git
 - Pokemon Ranker application - MERN (JavaScript) - https://github.com/robert-godlewski/PokemonRanker.git
 
 ## Projects on the side:
+- Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap - https://robert-godlewski.github.io/
 - CRM web application - Flask (Python) and Bootstrap - https://github.com/robert-godlewski/crm_app.git
 - Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
 
 # Currently Learning:
 - Algorithms through Coding Dojo and LeetCode using JavaScript.
 - Django Python Web Framework.
+- AWS
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
@@ -51,7 +63,7 @@ As mentioned before, I am a music producer who goes by Comet of Dreams.  In musi
 - YouTube Music: https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg
 
 # Other interests:
-- Pokemon
+- Pokemon (GO, Console Games)
 - Star Wars Shows and Movies
 - Star Trek Shows
 - Tolkien Books and Movies
