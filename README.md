@@ -36,6 +36,7 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 - RESTful APIs
 - Postman
 - Visual Studio Code
+- AWS
 
 ## Coding Concepts:
 - OOP
@@ -48,13 +49,12 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 
 ## Projects on the side:
 - Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap - https://robert-godlewski.github.io/
-- CRM web application - Flask (Python) and Bootstrap - https://github.com/robert-godlewski/crm_app.git
+- CRM web application - Flask (Python) and Bootstrap - Repository = https://github.com/robert-godlewski/crm_app.git or Live AWS site = http://35.162.237.112/
 - Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
 
 # Currently Learning:
-- Algorithms through Coding Dojo and LeetCode using JavaScript.
+- Algorithms through Coding Dojo and LeetCode using Python and JavaScript.
 - Django Python Web Framework.
-- AWS
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
@@ -63,10 +63,12 @@ As mentioned before, I am a music producer who goes by Comet of Dreams.  In musi
 - YouTube Music: https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg
 
 # Other interests:
-- Pokemon (GO, Console Games)
+- Pokemon (currently playing GO, Let's Go, and Sword Games)
 - Star Wars Shows and Movies
 - Star Trek Shows
 - Tolkien Books and Movies
+- Civ6
+- Baldur's Gate 3 
 
 # How to Reach me:
 The best way you can reach me is emailing me through robtechg5@gmil.com
