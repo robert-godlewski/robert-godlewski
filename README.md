@@ -40,6 +40,7 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 
 ## Coding Concepts:
 - OOP
+- Data Structures
 - Algorithms
 
 # Project(s):
