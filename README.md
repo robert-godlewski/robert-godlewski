@@ -64,12 +64,12 @@ As mentioned before, I am a music producer who goes by Comet of Dreams.  In musi
 - YouTube Music: https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg
 
 # Other interests:
-- Pokemon (currently playing GO, Let's Go, and Sword Games)
+- Pokemon (currently playing GO, Let's Go Pikachu, and Sword Games)
 - Star Wars Shows and Movies
 - Star Trek Shows
-- Tolkien Books and Movies
+- Tolkien Books, Movies, and Show
 - Civ6
-- Baldur's Gate 3 
+- Baldur's Gate 3
 
 # How to Reach me:
 The best way you can reach me is emailing me through robtechg5@gmil.com
