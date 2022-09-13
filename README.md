@@ -44,7 +44,8 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 - Algorithms
 
 # Project(s):
-## Current Major Project: My own Django Plugins for faster development - Django (Python) - https://github.com/robert-godlewski/django-plugins.git
+## Current Major Project: 
+My own Django Plugins for faster development - Django (Python) - https://github.com/robert-godlewski/django-plugins.git
 
 ## Projects on th side:
 - Comet of Dreams (My music production work) website - Django (Python) - https://github.com/robert-godlewski/CODWebsite.git
@@ -73,18 +74,3 @@ As mentioned before, I am a music producer who goes by Comet of Dreams.  In musi
 
 # How to Reach me:
 The best way you can reach me is emailing me through robtechg5@gmil.com
-
-<!--
-**robert-godlewski/robert-godlewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
