@@ -44,12 +44,12 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 - Algorithms
 
 # Project(s):
-## Current Major Project: 
-My own Django Plugins for faster development - Django (Python) - https://github.com/robert-godlewski/django-plugins.git
+## Current Major Project(s): 
+- Pokemon Ranker application - React.js (JavaScript) - https://github.com/robert-godlewski/PokemonRanker.git
+- My own Django Plugins (for faster development) - Django (Python) - https://github.com/robert-godlewski/django-plugins.git
 
 ## Projects on th side:
 - Comet of Dreams (My music production work) website - Django (Python) - https://github.com/robert-godlewski/CODWebsite.git
-- Pokemon Ranker application - React.js - https://github.com/robert-godlewski/PokemonRanker.git
 - Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap - https://robert-godlewski.github.io/
 - CRM web application - Flask (Python) and Bootstrap - Repository = https://github.com/robert-godlewski/crm_app.git or Live AWS site = http://35.162.237.112/
 - Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
