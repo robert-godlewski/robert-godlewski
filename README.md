@@ -4,16 +4,18 @@ I came from a non-traditional background in the tech industry. I am a music prod
 
 My interest in computer science initially started when Minecraft first came out (Alpha version and Beta 1.0!) and learned an early version of Java (my knowledge in current Java is outdated fyi) to make my own mods with my older brother and buddies. Initially didn't as well and then decided to pivot from and try out a couple of other industries. While creating my music production (under Comet of Dreams) website using WIX I decided it was a lot of fun and re-sparked my interest in coding. I wanted to learn the ins and outs of how a website and program works so that I can create and think of new projects to develop. I then decided that it was time to take online programming courses which scaled my interest in coding.
 
-I eventually soon after joined Coding Dojo's bootcamp to learn more and build my network of computer programmers to develop problem-solving code. I learned 2 stacks in 6 months (Flask/Python and MERN) to build several projects and continued to learn more by solving problems.
+I eventually soon after joined Coding Dojo's bootcamp to learn more and build my network of computer programmers to develop problem-solving code. I learned 2 stacks in 6 months (Flask/Python and MERN) to build several projects and continued to learn more by solving problems.  Soon after I learned both Django and TypeScript on my own.
 
 # Skill Sets:
 ## Languages:
 - Python3
+- TypeScript4
 - JavaScript
 - CSS3
 - HTML5
 
 ## Front end:
+- Cypress.js
 - React.js
 - Bootstrap
 - AJAX
@@ -44,19 +46,19 @@ I eventually soon after joined Coding Dojo's bootcamp to learn more and build my
 - Algorithms
 
 # Project(s):
-## Current Major Project(s): 
+## Current Major Project(s):
+Xetdata projects
+
+## Other Projects Developed in the past:
 - Pokemon Ranker application - React.js (JavaScript) - https://github.com/robert-godlewski/PokemonRanker.git
 - My own Django Plugins (for faster development) - Django (Python) - https://github.com/robert-godlewski/django-plugins.git
-
-## Projects on th side:
 - Comet of Dreams (My music production work) website - Django (Python) - https://github.com/robert-godlewski/CODWebsite.git
 - Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap - https://robert-godlewski.github.io/
 - CRM web application - Flask (Python) and Bootstrap - Repository = https://github.com/robert-godlewski/crm_app.git or Live AWS site = http://35.162.237.112/
 - Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
 
 # Currently Learning:
-- Algorithms through LeetCode using Python and JavaScript.
-- Django Python Web Framework.
+- Cypress.js
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
