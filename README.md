@@ -6,77 +6,90 @@ My interest in computer science initially started when Minecraft first came out 
 
 After graduating Coding Dojo's bootcamp, learning Flask/Python and MERN stacks, I started to build my network of computer programmers to develop problem-solving code. I also build a few projects and continued to learn more by solving problems.  Soon after I learned Django on my own to help build some of my personal projects.
 
-I obtained a new job as an employee at XetHub where we apply version control over large files like images and big datasets.  Currently learned and applied Cypress and GitHub Actions to run automated UI tests nightly so that the tests inform us if some features are not working as they are supposed to.
+I obtained a new job as an employee at XetHub where we apply version control over large files like images and big datasets.  So far I have:
+* Designed and implemented UI testing framework to enable automated regression testing.
+* Developed 200 automated UI regression tests to ensure website behavior using Cypress and Github Actions.
+* Utilized Webhooks on Slack to notify developers when the daily UI regression tests fail.
+* Resolved bugs on XetHub site pertaining to UI and repository issues.
 
 # Skill Sets:
 ## Languages:
-- Python
-- TypeScript
-- JavaScript
-- CSS
-- HTML
+* Python
+* TypeScript
+* JavaScript
+* CSS
+* HTML
 
-## Front end:
-- Cypress
-- React.js
-- Bootstrap
-- AJAX
+## Python Libraries and Frameworks:
+* Django
+* Flask
+* Bcrypt
 
-## Back end:
-- Django
-- Flask
-- Node.js
-- Express.js
+## JavaScript Libraries and Frameworks:
+* Node.js
+* Express.js
+* React.js
+* Cypress
+* Bootstrap
 
 ## Databases:
-- SQL (MySQL and SQLite)
-- NoSQL (MongoDB and Mongoose)
+* SQL (MySQL and SQLite)
+* MongoDB (NoSQL)
 
-## Coding Tools:
-- Git
-- GitHub
-- GitHub Actions
-- GitPages
-- JSON
-- RESTful APIs
-- Postman
-- Visual Studio Code
-- AWS
+## Data Interchange Tools:
+* RESTful APIs
+* JSON
+* XML
+* AJAX
+* Postman
+
+## Version Control Systems:
+* Git
+* GitHub
+* Git-Xet
+* XetHub
+
+## Other Coding Tools:
+* GitHub Actions
+* GitPages
+* AWS
+* Visual Studio Code
 
 ## Coding Concepts:
-- OOP
-- Data Structures (Arrays, Linked Lists, Queues, Stacks)
-- Algorithms
+* OOP
+* Data Structures (Arrays, Linked Lists, Queues, Stacks)
+* Algorithms
 
 # Project(s):
 ## Current Major Project(s):
 Xetdata projects
 
 ## Other Projects Developed in the past:
-- UI Tests on xethub.com - Cypress and GitHub Actions
-- Pokemon Ranker application - React.js (JavaScript) - https://github.com/robert-godlewski/PokemonRanker.git
-- My own Django Plugins (for faster development) - Django (Python) - https://github.com/robert-godlewski/django-plugins.git
-- Comet of Dreams (My music production work) website - Django (Python) - https://github.com/robert-godlewski/CODWebsite.git
-- Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap - https://robert-godlewski.github.io/
-- CRM web application - Flask (Python) and Bootstrap - Repository = https://github.com/robert-godlewski/crm_app.git or Live AWS site = http://35.162.237.112/
-- Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
+* UI Tests on xethub.com - Cypress and GitHub Actions
+* Pokemon Ranker application - React.js (JavaScript) - https://github.com/robert-godlewski/PokemonRanker.git
+* My own Django Plugins (for faster development) - Django (Python) - https://github.com/robert-godlewski/django-plugins.git
+* Comet of Dreams (My music production work) website - Django (Python) - https://github.com/robert-godlewski/CODWebsite.git
+* Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap - https://robert-godlewski.github.io/
+* CRM web application - Flask (Python) and Bootstrap - Repository = https://github.com/robert-godlewski/crm_app.git or Live AWS site = http://35.162.237.112/
+* Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
 
 # Currently Learning:
-- Cypress and GitHub Actions
+* Cypress
+* GitHub Actions
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
-- Spotify: https://open.spotify.com/artist/7gzLG44im4qLiULTjWvuPr?si=4_gDq1S_Q2uunGyJkdNogg&nd=1
-- Apple Music: https://music.apple.com/us/artist/comet-of-dreams/1491678196
-- YouTube Music: https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg
+* Spotify: https://open.spotify.com/artist/7gzLG44im4qLiULTjWvuPr?si=4_gDq1S_Q2uunGyJkdNogg&nd=1
+* Apple Music: https://music.apple.com/us/artist/comet-of-dreams/1491678196
+* YouTube Music: https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg
 
 # Other interests:
-- Pokemon (currently playing GO, Sword, and Scarlet Games)
-- Legend of Zelda Games (BOTW)
-- Star Wars Shows and Movies
-- Star Trek Shows
-- Tolkien Books, Movies, and Show
-- Civ6
+* Pokemon (currently playing GO, Sword, and Scarlet Games)
+* Legend of Zelda Games (BOTW)
+* Star Wars Shows and Movies
+* Star Trek Shows
+* Tolkien Books, Movies, and Show
+* Civ6
 
 # How to Reach me:
 The best way you can reach me is emailing me through robtechg5@gmil.com
