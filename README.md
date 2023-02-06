@@ -62,14 +62,12 @@ I obtained a new job as an employee at XetHub where we apply version control ove
 
 # Project(s):
 ## Current Major Project(s):
-Xetdata projects
+* XetData projects
+* Portfolio Site
 
 ## Other Projects Developed in the past:
 * UI Tests on xethub.com - Cypress and GitHub Actions
-* Pokemon Ranker application - React.js (JavaScript) - https://github.com/robert-godlewski/PokemonRanker.git
-* My own Django Plugins (for faster development) - Django (Python) - https://github.com/robert-godlewski/django-plugins.git
-* Comet of Dreams (My music production work) website - Django (Python) - https://github.com/robert-godlewski/CODWebsite.git
-* Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap - https://robert-godlewski.github.io/
+* Old Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap - https://robert-godlewski.github.io/
 * CRM web application - Flask (Python) and Bootstrap - Repository = https://github.com/robert-godlewski/crm_app.git or Live AWS site = http://35.162.237.112/
 * Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
 
