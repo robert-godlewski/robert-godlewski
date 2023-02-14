@@ -72,8 +72,7 @@ I obtained a new job as an employee at XetHub where we apply version control ove
 * Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
 
 # Currently Learning:
-* Cypress
-* GitHub Actions
+* Golang
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
