@@ -15,6 +15,8 @@ I obtained a new job as an employee at XetHub where we apply version control ove
 # Skill Sets:
 ## Languages:
 ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python-logo" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript-logo" width="100" height="100">
 * TypeScript
 * JavaScript
 * CSS
