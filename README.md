@@ -14,25 +14,20 @@ I obtained a new job as an employee at XetHub where we apply version control ove
 
 # Skill Sets:
 ## Languages:
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python-logo" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript-logo" width="100" height="100">
-* TypeScript
-* JavaScript
-* CSS
-* HTML
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" width="50" height="50">
 
-## Python Libraries and Frameworks:
-* Django
-* Flask
-* Bcrypt
-
-## JavaScript Libraries and Frameworks:
-* Node.js
-* Express.js
-* React.js
-* Cypress
-* Bootstrap
+## Libraries and Frameworks:
+* [Django v4 - Python](https://www.djangoproject.com/)
+* [Flask v2 - Python](https://flask.palletsprojects.com/en/2.2.x/)
+* [Node.js v18 - JavaScript](https://nodejs.org/en)
+* [Express.js - JavaScript](https://expressjs.com/)
+* [React.js - JavaScript](https://react.dev/)
+* [Bootstrap - JavaScript](https://getbootstrap.com/)
+* [Cypress - JavaScript](https://www.cypress.io/)
 
 ## Databases:
 * SQL (MySQL and SQLite)
