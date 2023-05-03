@@ -14,55 +14,54 @@ I obtained a new job as an employee at XetHub where we apply version control ove
 
 # Skill Sets:
 ## Languages:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" height="50">](https://www.python.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" width="50" height="50">](https://www.typescriptlang.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" width="50" height="50"></p>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" height="50">](https://www.python.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" width="50" height="50">](https://www.typescriptlang.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" width="50" height="50"> [<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" width="100" height="50">](https://www.mysql.com/) [SQLite](https://sqlite.org/index.html) | [MongoDB](https://www.mongodb.com/)
 
 ## Libraries and Frameworks:
 ### Python
-[<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" width="100" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="100" height="50">](https://flask.palletsprojects.com/en/2.2.x/)
+[<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" width="100" height="50">](https://www.djangoproject.com/) [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 
 ### JavaScript
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack Technologies - MongoDB, Express.js, React.js, and Node.js" width="200" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="50" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cypress-logo.webp" alt="Cypress Logo">](https://www.cypress.io/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack Technologies - MongoDB, Express.js, React.js, and Node.js" width="200" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="50" height="50">](https://getbootstrap.com/) [Cypress](https://www.cypress.io/)
 
-## Databases:
-[<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" width="100" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" width="100" height="75">](https://sqlite.org/index.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" width="100" height="75">](https://www.mongodb.com/)
+## Coding Concepts:
+* OOP
+* Data Structures
+* Algorithms
 
-## Data Interchange Tools:
+## Other Coding Tools:
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="100" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="100" height="50">
+
 * RESTful APIs
 * JSON
 * XML
 * AJAX
 * Postman
-
-## Version Control Systems:
-* Git
 * GitHub
 * Git-Xet
 * XetHub
-
-## Other Coding Tools:
 * GitHub Actions
 * GitPages
-* AWS
-* Visual Studio Code
-
-## Coding Concepts:
-* OOP
-* Data Structures (Arrays, Linked Lists, Queues, Stacks)
-* Algorithms
 
 # Project(s):
 ## Current Major Project(s):
 * XetData projects
-* Portfolio Site
+* Comet of Dreams website
 
 ## Other Projects Developed in the past:
 * UI Tests on xethub.com - Cypress and GitHub Actions
-* Old Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap - https://robert-godlewski.github.io/
-* CRM web application - Flask (Python) and Bootstrap - Repository = https://github.com/robert-godlewski/crm_app.git or Live AWS site = http://35.162.237.112/
-* Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
+* [Old Portfolio Website that provides all of my projects - GitPages, HTML5, CSS3, Bootstrap](https://robert-godlewski.github.io/)
+* CRM web application - Flask (Python) and Bootstrap | [Repository](https://github.com/robert-godlewski/crm_app) | [Live AWS site](http://35.162.237.112/)
+* [Reddit Clone with a group - Flask (python)](https://github.com/robert-godlewski/reddit_clone)
 
 # Currently Learning:
+## Languages and Libraries
 [<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" width="50" height="50">](https://go.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" width="50" height="50">](https://matplotlib.org/)
+
+## Data Structures and Algorithms
+1. [TypeScript](https://github.com/robert-godlewski/ts_algo)
+2. [Golang](https://github.com/robert-godlewski/go_algo)
+3. [Python](https://github.com/robert-godlewski/python_algo)
+4. [JavaScript](https://github.com/robert-godlewski/js_algo)
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
