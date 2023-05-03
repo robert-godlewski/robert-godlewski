@@ -18,13 +18,13 @@ I obtained a new job as an employee at XetHub where we apply version control ove
 
 ## Libraries and Frameworks:
 ### Python
-[<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" width="100" height="50"](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="100" height="50">](https://flask.palletsprojects.com/en/2.2.x/)
+[<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" width="100" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="100" height="50">](https://flask.palletsprojects.com/en/2.2.x/)
 
 ### JavaScript
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack Technologies - MongoDB, Express.js, React.js, and Node.js" width="200" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="Bootstrap Logo" width="50" height="50"](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cypress-logo.webp" alt="Cypress Logo">](https://www.cypress.io/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack Technologies - MongoDB, Express.js, React.js, and Node.js" width="200" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="50" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cypress-logo.webp" alt="Cypress Logo">](https://www.cypress.io/)
 
 ## Databases:
-[<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo">](https://sqlite.org/index.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo">](https://www.mongodb.com/)
+[<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" width="100" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" width="100" height="75">](https://sqlite.org/index.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" width="100" height="75">](https://www.mongodb.com/)
 
 ## Data Interchange Tools:
 * RESTful APIs
