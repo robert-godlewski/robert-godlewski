@@ -17,17 +17,14 @@ I obtained a new job as an employee at XetHub where we apply version control ove
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" height="50">](https://www.python.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" width="50" height="50">](https://www.typescriptlang.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" width="50" height="50"></p>
 
 ## Libraries and Frameworks:
-* [Django v4 - Python](https://www.djangoproject.com/)
-* [Flask v2 - Python](https://flask.palletsprojects.com/en/2.2.x/)
-* [Node.js v18 - JavaScript](https://nodejs.org/en)
-* [Express.js - JavaScript](https://expressjs.com/)
-* [React.js - JavaScript](https://react.dev/)
-* [Bootstrap - JavaScript](https://getbootstrap.com/)
-* [Cypress - JavaScript](https://www.cypress.io/)
+### Python
+[<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" width="100" height="50"](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="100" height="50">](https://flask.palletsprojects.com/en/2.2.x/)
+
+### JavaScript
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack Technologies - MongoDB, Express.js, React.js, and Node.js" width="200" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="Bootstrap Logo" width="50" height="50"](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cypress-logo.webp" alt="Cypress Logo">](https://www.cypress.io/)
 
 ## Databases:
-* SQL (MySQL and SQLite)
-* MongoDB (NoSQL)
+[<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo">](https://sqlite.org/index.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo">](https://www.mongodb.com/)
 
 ## Data Interchange Tools:
 * RESTful APIs
@@ -65,7 +62,7 @@ I obtained a new job as an employee at XetHub where we apply version control ove
 * Reddit Clone with a group - Flask (python) - https://github.com/robert-godlewski/reddit_clone.git
 
 # Currently Learning:
-* Golang
+[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" width="50" height="50">](https://go.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" width="50" height="50">](https://matplotlib.org/)
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen:
