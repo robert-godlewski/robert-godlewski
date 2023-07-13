@@ -53,21 +53,21 @@ Includes version control, IDE, DevOps
 ## Current Major Project(s):
 * Portfolio Website for both Computer Programming and Music Production - React (JavaScript), Bootstrap (JavaScript), GitHub Pages | [Live Site](https://robert-godlewski.github.io/) | [Repository](https://github.com/robert-godlewski/robert-godlewski.github.io)
 * Comet of Dreams website - Django (Python), React (JavaScript), Bootstrap (JavaScript) | In current development
-* Fitness Analyser - Python, Matplotlib | [Repository](https://github.com/robert-godlewski/fitness_analyser)
 
 ## Other Projects Developed in the past:
 * UI Tests on xethub.com - Cypress and GitHub Actions | [XetHub site](https://xethub.com/)
 * CRM web application - Flask (Python), Bootstrap (JavaScript), AWS | [Repository](https://github.com/robert-godlewski/crm_app) | [Live AWS site](http://35.162.237.112/)
 * Reddit Clone with a group - Flask (Python) | [Repository](https://github.com/robert-godlewski/reddit_clone)
+* Fitness Analyser - Python, Matplotlib | [Repository](https://github.com/robert-godlewski/fitness_analyser)
 
 # Currently Learning:
 ## Languages and Libraries
-[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" width="50" height="50">](https://go.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" width="50" height="50">](https://matplotlib.org/)
+[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" width="50" height="50">](https://go.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="100" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" width="50" height="50">](https://matplotlib.org/)
 
 ## Data Structures and Algorithms
-1. [TypeScript](https://github.com/robert-godlewski/ts_algo)
-2. [Golang](https://github.com/robert-godlewski/go_algo)
-3. [Python](https://github.com/robert-godlewski/python_algo)
+1. [Python](https://github.com/robert-godlewski/python_algo)
+2. [TypeScript](https://github.com/robert-godlewski/ts_algo)
+3. [Golang](https://github.com/robert-godlewski/go_algo)
 4. [JavaScript](https://github.com/robert-godlewski/js_algo)
 
 # My Music:
