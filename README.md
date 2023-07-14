@@ -21,9 +21,11 @@ I obtained a new job as an employee at XetHub where we apply version control ove
 [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 
 ### JavaScript
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack Technologies - MongoDB, Express.js, React.js, and Node.js" width="200" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="50" height="50">](https://getbootstrap.com/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack Technologies - MongoDB, Express.js, React.js, and Node.js" width="400" height="100"> 
 
-[Cypress](https://www.cypress.io/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="50" height="50">](https://getbootstrap.com/)
+
+[MongoDB](https://www.mongodb.com/) | [Express.js](https://expressjs.com/) | [React.js](https://react.dev/) | [Node.js](https://nodejs.org/en) | [Cypress](https://www.cypress.io/)
 
 ## Coding Concepts:
 * OOP
