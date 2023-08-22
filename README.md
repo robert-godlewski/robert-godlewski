@@ -8,6 +8,8 @@ After graduating Coding Dojo's bootcamp, learning Flask/Python and MERN stacks, 
 
 I obtained a new job as an employee at XetHub where we apply version control over large files like images and big datasets.
 
+Currently building a blog site for my music production Comet of Dreams here's a link to the [GitHub Account](https://github.com/comet-of-dreams).
+
 # Skill Sets:
 ## Languages:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" height="50">](https://www.python.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" width="50" height="50">](https://www.typescriptlang.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" width="50" height="50"> [<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" width="100" height="50">](https://www.mysql.com/)
@@ -54,7 +56,7 @@ Includes version control, IDE, DevOps
 # Project(s):
 ## Current Major Project(s):
 * Portfolio Website for both Computer Programming and Music Production | Technologies: React (JavaScript), Bootstrap (JavaScript), GitHub Pages | [Live Site](https://robert-godlewski.github.io/) | [Repository](https://github.com/robert-godlewski/robert-godlewski.github.io) | Ongoing
-* Comet of Dreams website | Technologies: Django (Python), Bootstrap (JavaScript) | [GitHub Account](@comet-of-dreams) | In current development
+* Comet of Dreams Blog Website | Technologies: Django (Python), Bootstrap (JavaScript) | [GitHub Account](https://github.com/comet-of-dreams) | In current development
 
 ## Other Projects Developed in the past:
 * UI Tests on xethub.com - Cypress and GitHub Actions | [XetHub site](https://xethub.com/)
@@ -75,7 +77,7 @@ Includes version control, IDE, DevOps
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen: [Spotify](https://open.spotify.com/artist/7gzLG44im4qLiULTjWvuPr?si=4_gDq1S_Q2uunGyJkdNogg&nd=1) | [Apple Music](https://music.apple.com/us/artist/comet-of-dreams/1491678196) | [YouTube Music](https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg)
 
-I've also done other projects you can go to [Portfolio Website](https://github.com/robert-godlewski/robert-godlewski.github.io) and go under audio production.
+I've also done other projects you can go to [Portfolio Website](https://github.com/robert-godlewski/robert-godlewski.github.io) and go under audio production to view more.
 
 # Other interests:
 * Pokemon (currently playing GO, Sword, and Scarlet Games)
