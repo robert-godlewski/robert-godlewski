@@ -53,8 +53,8 @@ Includes version control, IDE, DevOps
 
 # Project(s):
 ## Current Major Project(s):
-* Portfolio Website for both Computer Programming and Music Production - React (JavaScript), Bootstrap (JavaScript), GitHub Pages | [Live Site](https://robert-godlewski.github.io/) | [Repository](https://github.com/robert-godlewski/robert-godlewski.github.io)
-* Comet of Dreams website - Django (Python), React (JavaScript), Bootstrap (JavaScript) | In current development
+* Portfolio Website for both Computer Programming and Music Production | Technologies: React (JavaScript), Bootstrap (JavaScript), GitHub Pages | [Live Site](https://robert-godlewski.github.io/) | [Repository](https://github.com/robert-godlewski/robert-godlewski.github.io) | Ongoing
+* Comet of Dreams website | Technologies: Django (Python), Bootstrap (JavaScript) | [GitHub Account](@comet-of-dreams) | In current development
 
 ## Other Projects Developed in the past:
 * UI Tests on xethub.com - Cypress and GitHub Actions | [XetHub site](https://xethub.com/)
