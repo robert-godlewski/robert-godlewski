@@ -80,14 +80,14 @@ As mentioned before, I am a music producer who goes by Comet of Dreams.  In musi
 I've also done other projects you can go to [Portfolio Website](https://github.com/robert-godlewski/robert-godlewski.github.io) and go under audio production to view more.
 
 # Other interests:
-* Pokemon (currently playing GO, Sword, and Scarlet Games)
+* Pokemon (currently playing GO and Scarlet Games)
 * Star Trek
 * Star Wars
 * Tolkien Books, Movies, and Show
-* Legend of Zelda Games (Minish Cap, Link's Awakening, BOTW)
+* Legend of Zelda Games
 * Luigi's Mansion Series
-* Mario and Rabbids
+* Mario RPG Games
 * Civ6
 
 # How to Reach me:
-The best way you can reach me is emailing me through robtechg5@gmil.com.
+The best way you can reach me is emailing me through robtechg5@gmail.com.
