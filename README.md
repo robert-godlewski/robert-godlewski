@@ -37,34 +37,35 @@ Currently building a blog site for my music production Comet of Dreams here's a 
 * Data Structures
 * Algorithms
 
-## API Tools:
-* RESTful APIs
-* JSON
-* XML
-* AJAX
-* Postman
+## Other Coding Tools:
+Includes version control, IDE, DevOps
 
-## GitHub Tools:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="100" height="50">](https://git-scm.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="50" height="50">](https://code.visualstudio.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="100" height="50">](https://aws.amazon.com/)
+
+[Git-Xet and XetHub](https://xethub.com/)
+
+### GitHub Tools:
 * [GitHub](https://www.github.com/)
 * [GitHub Actions](https://docs.github.com/en/actions)
 * [GitHub Pages](https://pages.github.com/)
 
-## Other Coding Tools:
-Includes version control, IDE, DevOps
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="100" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="100" height="50">
-
-[Git-Xet and XetHub](https://xethub.com/)
+### API Tools:
+* RESTful APIs
+* JSON
+* XML
+* AJAX
+* [Postman](https://www.postman.com/)
 
 # Project(s):
 ## Current Major Project(s):
-* Portfolio Website for both Computer Programming and Music Production | Technologies: React (JavaScript), Bootstrap (JavaScript), GitHub Pages | [Live Site](https://robert-godlewski.github.io/) | [Repository](https://github.com/robert-godlewski/robert-godlewski.github.io) | Ongoing
-* Comet of Dreams Blog Website | Technologies: Django (Python), Bootstrap (JavaScript) | [GitHub Account](https://github.com/comet-of-dreams) | In current development
+* Portfolio Website for both Computer Programming and Music Production | Technologies: [React](https://react.dev/), [Bootstrap](https://getbootstrap.com/), and [GitHub Pages](https://pages.github.com/) | [Live Site](https://robert-godlewski.github.io/) | [Repository](https://github.com/robert-godlewski/robert-godlewski.github.io) | Ongoing
+* Comet of Dreams Blog Website | Technologies: [Django](https://www.djangoproject.com/) and [Bootstrap](https://getbootstrap.com/) | [GitHub Account](https://github.com/comet-of-dreams) | In current development
+* Django-Plugins | Technologies: [Django](https://www.djangoproject.com/) | [GitHub Account](https://github.com/robert-godlewski/django-plugins) | In current development
 
 ## Other Projects Developed in the past:
-* UI Tests on xethub.com - Cypress and GitHub Actions | [XetHub site](https://xethub.com/)
-* CRM web application - Flask (Python), Bootstrap (JavaScript), AWS | [Repository](https://github.com/robert-godlewski/crm_app) | [Live AWS site](http://35.162.237.112/)
-* Reddit Clone with a group - Flask (Python) | [Repository](https://github.com/robert-godlewski/reddit_clone)
+* UI Tests on xethub.com - [Cypress](https://www.cypress.io/) and [GitHub Actions](https://docs.github.com/en/actions) | [XetHub site](https://xethub.com/)
+* CRM web application - [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Bootstrap](https://getbootstrap.com/), AWS | [Repository](https://github.com/robert-godlewski/crm_app) | [Live AWS site](http://35.162.237.112/)
+* Reddit Clone with a group - [Flask](https://flask.palletsprojects.com/en/2.2.x/) | [Repository](https://github.com/robert-godlewski/reddit_clone)
 * Fitness Analyser - Python, Matplotlib | [Repository](https://github.com/robert-godlewski/fitness_analyser)
 
 # Currently Learning:
@@ -74,8 +75,8 @@ Includes version control, IDE, DevOps
 ## Data Structures and Algorithms
 1. [Python](https://github.com/robert-godlewski/python_algo)
 2. [TypeScript](https://github.com/robert-godlewski/ts_algo)
-3. [Golang](https://github.com/robert-godlewski/go_algo)
-4. [JavaScript](https://github.com/robert-godlewski/js_algo)
+3. [JavaScript](https://github.com/robert-godlewski/js_algo)
+4. [Golang](https://github.com/robert-godlewski/go_algo)
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen: [Spotify](https://open.spotify.com/artist/7gzLG44im4qLiULTjWvuPr?si=4_gDq1S_Q2uunGyJkdNogg&nd=1) | [Apple Music](https://music.apple.com/us/artist/comet-of-dreams/1491678196) | [YouTube Music](https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg)
@@ -86,11 +87,11 @@ I've also done other projects you can go to [Portfolio Website](https://github.c
 * Pokemon (currently playing GO and Scarlet Games)
 * Star Trek
 * Star Wars
-* Tolkien Books, Movies, and Show
+* Tolkien's Middle Earth Stories
+* Harry Potter/ Fantastic Beasts (currently playing Hogwarts Legacy)
 * Legend of Zelda Games
-* Luigi's Mansion Series
-* Mario RPG Games
+* Mario Francise Games
 * Civ6
 
 # How to Reach me:
-The best way you can reach me is emailing me through robtechg5@gmail.com.
+The best way you can reach me is [emailing me](mailto:robtechg5@gmail.com).
