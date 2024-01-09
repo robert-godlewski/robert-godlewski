@@ -12,35 +12,27 @@ Currently building a blog site for my music production Comet of Dreams here's a 
 
 # Skill Sets:
 ## Languages:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" height="50">](https://www.python.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" height="50"> [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" width="50" height="50">](https://www.typescriptlang.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" width="50" height="50"> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="50">](https://www.typescriptlang.org/)
 
 ## Databases:
-[<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" width="100" height="50">](https://www.mysql.com/)
+### SQL:
+[<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html)
 
-[SQLite](https://sqlite.org/index.html) | [MongoDB](https://www.mongodb.com/)
+### Other:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/)
+
+## Basic Website Development:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 ## Libraries and Frameworks:
 ### Python
-[<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" width="100" height="50">](https://www.djangoproject.com/)
-
-[Flask](https://flask.palletsprojects.com/en/2.2.x/)
+[<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask logo" height="50">](https://flask.palletsprojects.com/en/2.2.x/)
 
 ### JavaScript
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack Technologies - MongoDB, Express.js, React.js, and Node.js" width="400" height="100"> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" height="50">](https://expressjs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js Logo" height="50">](https://nodejs.org/en) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="50" height="50">](https://getbootstrap.com/)
-
-[MongoDB](https://www.mongodb.com/) | [Express.js](https://expressjs.com/) | [React.js](https://react.dev/) | [Node.js](https://nodejs.org/en) | [Cypress](https://www.cypress.io/)
-
-## Coding Concepts:
-* OOP
-* Data Structures
-* Algorithms
-
-## Other Coding Tools:
-Includes version control, IDE, DevOps
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="100" height="50">](https://git-scm.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="50" height="50">](https://code.visualstudio.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="100" height="50">](https://aws.amazon.com/)
+## Versioning Control Tools
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" height="50">](https://git-scm.com/)
 
 [Git-Xet and XetHub](https://xethub.com/)
 
@@ -49,12 +41,16 @@ Includes version control, IDE, DevOps
 * [GitHub Actions](https://docs.github.com/en/actions)
 * [GitHub Pages](https://pages.github.com/)
 
-### API Tools:
-* RESTful APIs
-* JSON
-* XML
-* AJAX
-* [Postman](https://www.postman.com/)
+## API Tools:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON logo" height="50">](https://www.json.org/json-en.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="XML logo" height="50">](https://www.w3.org/XML/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman Software Logo" height="50">](https://www.postman.com/)
+
+## Other Coding Tools:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" height="50">](https://code.visualstudio.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="50">](https://aws.amazon.com/)
+
+## Coding Concepts:
+* OOP
+* Data Structures
+* Algorithms
 
 # Project(s):
 ## Current Major Project(s):
@@ -69,8 +65,8 @@ Includes version control, IDE, DevOps
 * Fitness Analyser - Python, Matplotlib | [Repository](https://github.com/robert-godlewski/fitness_analyser)
 
 # Currently Learning:
-## Languages and Libraries
-[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" width="50" height="50">](https://go.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="100" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" width="50" height="50">](https://matplotlib.org/)
+## Languages, Libraries, and other Software Tools
+[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" height="50">](https://go.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery Logo" height="50">](https://jquery.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="50">](https://www.docker.com/)
 
 ## Data Structures and Algorithms
 1. [Python](https://github.com/robert-godlewski/python_algo)
