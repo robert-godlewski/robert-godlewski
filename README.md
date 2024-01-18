@@ -15,10 +15,10 @@ Currently building a blog site for my music production Comet of Dreams here's a 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="50">](https://www.typescriptlang.org/)
 
 ## Databases:
-### SQL:
+### Relational:
 [<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html)
 
-### Other:
+### Document Based:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/)
 
 ## Basic Website Development:
@@ -29,7 +29,7 @@ Currently building a blog site for my music production Comet of Dreams here's a 
 [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask logo" height="50">](https://flask.palletsprojects.com/en/2.2.x/)
 
 ### JavaScript
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" height="50">](https://expressjs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js Logo" height="50">](https://nodejs.org/en) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" height="50">](https://expressjs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js Logo" height="50">](https://nodejs.org/en) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/)
 
 ## Versioning Control Tools
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" height="50">](https://git-scm.com/)
@@ -80,14 +80,15 @@ As mentioned before, I am a music producer who goes by Comet of Dreams.  In musi
 I've also done other projects you can go to [Portfolio Website](https://github.com/robert-godlewski/robert-godlewski.github.io) and go under audio production to view more.
 
 # Other interests:
-* Pokemon (currently playing GO and Scarlet Games)
+* Pokemon
 * Star Trek
 * Star Wars
 * Tolkien's Middle Earth Stories
-* Harry Potter/ Fantastic Beasts (currently playing Hogwarts Legacy)
+* Harry Potter/ Fantastic Beasts
 * Legend of Zelda Games
 * Mario Francise Games
-* Civ6
+* Civ6 Game
+* One Piece Anime
 
 # How to Reach me:
 The best way you can reach me is [emailing me](mailto:robtechg5@gmail.com).
