@@ -41,38 +41,64 @@ Currently building a blog site for my music production Comet of Dreams here's a 
 * [GitHub Actions](https://docs.github.com/en/actions)
 * [GitHub Pages](https://pages.github.com/)
 
+## Cloud Computing Tools
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="50">](https://aws.amazon.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" alt="AWS EC2 Logo" height="50">](https://aws.amazon.com/ec2/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="AWS S3 Logo" height="50">](https://aws.amazon.com/s3/)
+
 ## API Tools:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON logo" height="50">](https://www.json.org/json-en.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="XML logo" height="50">](https://www.w3.org/XML/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman Software Logo" height="50">](https://www.postman.com/)
 
 ## Other Coding Tools:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" height="50">](https://code.visualstudio.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="50">](https://aws.amazon.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" height="50">](https://code.visualstudio.com/)
 
 ## Coding Concepts:
 * OOP
 * Data Structures
 * Algorithms
 
-# Project(s):
-## Current Major Project(s):
-* Portfolio Website for both Computer Programming and Music Production | Technologies: [React](https://react.dev/), [Bootstrap](https://getbootstrap.com/), and [GitHub Pages](https://pages.github.com/) | [Live Site](https://robert-godlewski.github.io/) | [Repository](https://github.com/robert-godlewski/robert-godlewski.github.io) | Ongoing
-* Comet of Dreams Blog Website | Technologies: [Django](https://www.djangoproject.com/) and [Bootstrap](https://getbootstrap.com/) | [GitHub Account](https://github.com/comet-of-dreams) | In current development
-* Django-Plugins | Technologies: [Django](https://www.djangoproject.com/) | [GitHub Account](https://github.com/robert-godlewski/django-plugins) | In current development
-
-## Other Projects Developed in the past:
-* UI Tests on xethub.com - [Cypress](https://www.cypress.io/) and [GitHub Actions](https://docs.github.com/en/actions) | [XetHub site](https://xethub.com/)
-* CRM web application - [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Bootstrap](https://getbootstrap.com/), AWS | [Repository](https://github.com/robert-godlewski/crm_app) | [Live AWS site](http://35.162.237.112/)
-* Reddit Clone with a group - [Flask](https://flask.palletsprojects.com/en/2.2.x/) | [Repository](https://github.com/robert-godlewski/reddit_clone)
-* Fitness Analyser - Python, Matplotlib | [Repository](https://github.com/robert-godlewski/fitness_analyser)
-
-# Currently Learning:
-## Languages, Libraries, and other Software Tools
-[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" height="50">](https://go.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery Logo" height="50">](https://jquery.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="50">](https://www.docker.com/)
-
-## Data Structures and Algorithms
+### Data Structures and Algorithms
+List of my practice with Data Structures and Algorithms
 1. [Python](https://github.com/robert-godlewski/python_algo)
 2. [TypeScript](https://github.com/robert-godlewski/ts_algo)
 3. [JavaScript](https://github.com/robert-godlewski/js_algo)
 4. [Golang](https://github.com/robert-godlewski/go_algo)
+
+# Project(s):
+## Current Project(s):
+### Portfolio Website
+My portfolio for both Computer Programming and Music Production. [View Live Site](https://robert-godlewski.github.io/) or [View GitHub Repository](https://github.com/robert-godlewski/robert-godlewski.github.io).
+
+Status: Ongoing
+
+Technologies: [React](https://react.dev/), [Bootstrap](https://getbootstrap.com/), and [GitHub Pages](https://pages.github.com/)
+
+### Comet of Dreams Blog Website
+Blog site for my music production.  [GitHub Account](https://github.com/comet-of-dreams).
+
+Status: In Development
+
+Technologies: [Django](https://www.djangoproject.com/) and [Bootstrap](https://getbootstrap.com/)
+
+### Django-Plugins
+A group of plugins I'm building for easy development in Django. [View GitHub Repository](https://github.com/robert-godlewski/django-plugins)
+
+Status: In Development
+
+Technologies: [Django](https://www.djangoproject.com/)
+
+## Other Projects Developed in the past:
+* UI Tests on xethub.com - [Cypress](https://www.cypress.io/) and [GitHub Actions](https://docs.github.com/en/actions) | [XetHub site](https://xethub.com/)
+* CRM web application - [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Bootstrap](https://getbootstrap.com/), [AWS](https://aws.amazon.com/) | [GitHub Repository](https://github.com/robert-godlewski/crm_app) | [AWS Live Site - Currently Down](http://35.162.237.112/)
+* Reddit Clone with a group - [Flask](https://flask.palletsprojects.com/en/2.2.x/) | [GitHub Repository](https://github.com/robert-godlewski/reddit_clone)
+
+# Currently Learning:
+## Languages
+[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" height="50">](https://go.dev/) 
+
+## Libraries
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery Logo" height="50">](https://jquery.com/) 
+
+## Other Software Tools
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="50">](https://www.docker.com/)
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen: [Spotify](https://open.spotify.com/artist/7gzLG44im4qLiULTjWvuPr?si=4_gDq1S_Q2uunGyJkdNogg&nd=1) | [Apple Music](https://music.apple.com/us/artist/comet-of-dreams/1491678196) | [YouTube Music](https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg)
