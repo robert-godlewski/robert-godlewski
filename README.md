@@ -8,7 +8,7 @@ After graduating Coding Dojo's bootcamp, learning Flask/Python and MERN stacks, 
 
 I obtained a new job as an employee at XetHub where we apply version control over large files like images and big datasets.
 
-Currently building a blog site for my music production Comet of Dreams here's a link to the [GitHub Account](https://github.com/comet-of-dreams/.github).
+Currently building a blog site for my music production Comet of Dreams here's a link to the [GitHub Account](https://github.com/comet-of-dreams/).
 
 # Skill Sets
 ## Stacks
@@ -91,7 +91,7 @@ My portfolio for both Computer Programming and Music Production. [View Live Site
 * Deployed static React site using [GitHub Pages](https://pages.github.com/) to present prior experiences live.
 
 ### Comet of Dreams Blog Website
-Blog site for my music production.  [GitHub Account](https://github.com/comet-of-dreams/.github).
+Blog site for my music production.  [GitHub Account](https://github.com/comet-of-dreams/).
 
 *Status:* In Development
 
