@@ -52,7 +52,7 @@ Mainly Amazon Web Service Tools
 [JSON](https://www.json.org/json-en.html)
 
 ## Other JavaScript Libraries and Frameworks
-These are also useful that I could use for webdevelopment in JavaScript.
+These are also useful that I could use for web development in JavaScript.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/)
 
@@ -100,14 +100,14 @@ Blog site for my music production.  [GitHub Account](https://github.com/comet-of
 * Utilize python markdown library so that authors can style the blog articles and add in links to media
 * Designed UI on HTML templates using [Bootstrap](https://getbootstrap.com/).
 
+## Other Projects Developed in the past:
 ### Django-Plugins
 A group of plugins I'm building for easy development in Django. [View GitHub Repository](https://github.com/robert-godlewski/django-plugins)
 
-Status: In Development (based off of the *Comet of Dreams Blog Website*)
+*Status:* On Hold (based off of the *Comet of Dreams Blog Website*)
 
-Technologies: [Django](https://www.djangoproject.com/)
+*Technologies:* [Django](https://www.djangoproject.com/)
 
-## Other Projects Developed in the past:
 ### UI Tests on XetHub
 * Designed and implemented UI testing framework to enable automated regression testing.
 * Developed over 200 automated UI regression tests to ensure website behavior using [Cypress](https://www.cypress.io/) and [GitHub Actions](https://docs.github.com/en/actions).
@@ -131,12 +131,13 @@ A group project of developers where we built a fake social media app to test our
 [<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" height="50">](https://go.dev/) 
 
 ## Libraries
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery Logo" height="50">](https://jquery.com/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery Logo" height="50">](https://jquery.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="PyGame Logo" height="50">](https://www.pygame.org/news)
 
-## Other Software Tools
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">](https://www.postgresql.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx Logo" height="50">](https://www.nginx.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Gunicorn_logo_2010.svg" alt="Gunicorn Logo" height="50">](https://gunicorn.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="50">](https://www.docker.com/)
+## Database Management Systems
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">](https://www.postgresql.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j Logo" height="50">](https://neo4j.com/)
 
-GCP/ DigitalOcean/ Heroku
+## Deployment Tools
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx Logo" height="50">](https://www.nginx.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Gunicorn_logo_2010.svg" alt="Gunicorn Logo" height="50">](https://gunicorn.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="50">](https://www.docker.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud Logo" height="50">](https://cloud.google.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" alt="DigitalOcean Logo" height="50">](https://www.digitalocean.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" alt="Heroku Logo" height="50">](https://www.heroku.com/)
 
 # My Music:
 As mentioned before, I am a music producer who goes by Comet of Dreams.  In music I have an Associates Degree in Audio Engineering and a background in playing guitar, drums, and synthesizers to compuse my own music.  I've fully produced 2 EPs currently on streaming services.  Feel free to listen: [Spotify](https://open.spotify.com/artist/7gzLG44im4qLiULTjWvuPr?si=4_gDq1S_Q2uunGyJkdNogg&nd=1) | [Apple Music](https://music.apple.com/us/artist/comet-of-dreams/1491678196) | [YouTube Music](https://music.youtube.com/channel/UC-8k49b7m9pGKjT3jigtBrg)
@@ -151,7 +152,7 @@ I've also done other projects you can go to [Portfolio Website](https://github.c
 * Harry Potter/ Fantastic Beasts
 * Legend of Zelda Games
 * Mario Francise Games
-* Civ6 Game
+* Civilization 6 Game
 * One Piece Anime
 
 # How to Reach me:
