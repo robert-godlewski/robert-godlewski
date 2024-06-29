@@ -51,10 +51,16 @@ Mainly Amazon Web Service Tools
 
 [JSON](https://www.json.org/json-en.html)
 
-## Other JavaScript Libraries and Frameworks
+## Other Libraries and Frameworks
+### JavaScript
 These are also useful that I could use for web development in JavaScript.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/)
+
+### Python
+These are mainly data analysis tools learned in Python.
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" height="50">](https://pandas.pydata.org/)
 
 ## Languages
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="50">](https://www.typescriptlang.org/)
@@ -127,12 +133,8 @@ A group project of developers where we built a fake social media app to test our
 * Modularized the app with [Flask](https://flask.palletsprojects.com/en/2.2.x/) to handle the server-database interaction and engineered routes of the controllers for posts and users so that each web page will be routed to correct HTML templates.
 
 # Currently Learning:
-## Languages
-[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" height="50">](https://go.dev/) 
-
-## Libraries
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" height="50">](https://pandas.pydata.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery Logo" height="50">](https://jquery.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="PyGame Logo" height="50">](https://www.pygame.org/news)
+## Languages and Libraries
+[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" height="50">](https://go.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery Logo" height="50">](https://jquery.com/)
 
 ## Database Management Systems
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">](https://www.postgresql.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j Logo" height="50">](https://neo4j.com/)
