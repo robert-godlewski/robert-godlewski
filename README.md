@@ -1,21 +1,15 @@
 # About:
 
-I came from a non-traditional background in the tech industry. I am a music producer and received my AAAS degree in Music Technology. I still on the side do some music work due to high interest in music, especially in classical and rock genres. I also have about 10 years of experience now working in the civil engineering industry laboratory and support staff. 
-
-My interest in computer science initially started when Minecraft first came out (Alpha version and Beta 1.0!) and learned an early version of Java (Java SE6) to make my own mods with my older brother and buddies. During my time in college I decided to pivot from Computer Science and try out a couple of other industries. While creating my music production (under Comet of Dreams) website using WIX I decided it was a lot of fun and re-sparked my interest in coding. I wanted to learn the ins and outs of how a website and program works so that I can create and think of new projects to develop. I then decided that it was time to take online programming courses which scaled my interest in coding.
-
-After graduating Coding Dojo's bootcamp, learning Flask/Python and MERN stacks, I started to build my network of computer programmers to develop problem-solving code. I also build a few projects and continued to learn more by solving problems.  Soon after I learned Django on my own to help build some of my personal projects.
-
-I obtained a new job as an employee at XetHub where we apply version control over large files like images and big datasets.
-
-Currently building a blog site for my music production Comet of Dreams here's a link to the [GitHub Account](https://github.com/comet-of-dreams/).
+Robert is a Python Stack Software Developer with junior level of experience.  Currently have a certification in Full Stack Web Development and has some of experience building web applications.
 
 # Skill Sets
-## Stacks
-### Django Stack
-[Django](https://www.djangoproject.com/) is a [Python](https://www.python.org/) web framework.
+## Main Stack
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" height="50">](https://git-scm.com/)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html)
+Generally use [Django](https://www.djangoproject.com/) as the server side [Python](https://www.python.org/) web framework and [React](https://react.dev/) as the single-page-rendering UI [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) web framework.  [Django](https://www.djangoproject.com/) is very popular due to fast production towards building up web APIs due to built in features like a user login and authentification as well as an ORM to easily implement databases for any project that needs an API.  [React](https://react.dev/) is the most popular SPA framework today because it makes sites run faster by only acessing the data on the server when needed.
+
+## Database Options
+[<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html)
 
 ### MERN Stack
 MERN stands for [MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [React](https://react.dev/), and [Node](https://nodejs.org/en) which is soley [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) or even [TypeScript](https://www.typescriptlang.org/) web framework. 
@@ -32,8 +26,6 @@ or
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask logo" height="50">](https://flask.palletsprojects.com/en/2.2.x/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html)
 
 ## Versioning Control Tools
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" height="50">](https://git-scm.com/)
-
 [Git-Xet and XetHub](https://xethub.com/)
 
 ### GitHub Tools:
