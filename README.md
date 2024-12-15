@@ -6,24 +6,27 @@ Robert is a Python Stack Software Developer with junior level of experience.  Cu
 ## Main Stack
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" height="50">](https://git-scm.com/)
 
-Generally use [Django](https://www.djangoproject.com/) as the server side [Python](https://www.python.org/) web framework and [React](https://react.dev/) as the single-page-rendering UI [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) web framework.  [Django](https://www.djangoproject.com/) is very popular due to fast production towards building up web APIs due to built in features like a user login and authentification as well as an ORM to easily implement databases for any project that needs an API.  [React](https://react.dev/) is the most popular SPA framework today because it makes sites run faster by only acessing the data on the server when needed.
+Generally use [Django](https://www.djangoproject.com/) as the server side [Python](https://www.python.org/) web framework and [React](https://react.dev/) as the single-page-rendering UI [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) web framework.  [Django](https://www.djangoproject.com/) is very popular due to fast production towards building up web APIs due to built in features like a user login and authentification as well as an ORM to easily implement databases for any project that needs an API.  [React](https://react.dev/) is the most popular SPA framework today because it makes sites run faster by only acessing the data on the server when needed.  Also like to use [Bootstrap](https://getbootstrap.com/) for styling web pages faster than CSS.
 
 ## Database Options
-[<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">](https://www.postgresql.org/) [<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/)
 
-### MERN Stack
-MERN stands for [MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [React](https://react.dev/), and [Node](https://nodejs.org/en) which is soley [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) or even [TypeScript](https://www.typescriptlang.org/) web framework. 
+Relational Database options based off of SQL and useful for structured data: [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), and [SQLite](https://sqlite.org/index.html). Document-based Database option built off of JSON and useful for unstructured data [MongoDB](https://www.mongodb.com/).
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" height="50">](https://expressjs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js Logo" height="50">](https://nodejs.org/en)
+## Data Analysis
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" height="50">](https://pandas.pydata.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/)
 
-or
+[NumPy](https://numpy.org/) for quick calculations and handling data. [Pandas](https://pandas.pydata.org/) for data manipulation and extraction. [Matplotlib](https://matplotlib.org/) for Data Visualization.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="50">](https://www.typescriptlang.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" height="50">](https://expressjs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js Logo" height="50">](https://nodejs.org/en)
+## Cloud Computing Tools
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="50">](https://aws.amazon.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" alt="AWS EC2 Logo" height="50">](https://aws.amazon.com/ec2/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="AWS S3 Logo" height="50">](https://aws.amazon.com/s3/)
 
-### Flask Stack
-[Flask](https://flask.palletsprojects.com/en/2.2.x/) is a [Python](https://www.python.org/) web microframework for basic web applications.
+Have knowledge of AWS for deploying projects and also depolying projects with [GitHub Pages](https://pages.github.com/) as well.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask logo" height="50">](https://flask.palletsprojects.com/en/2.2.x/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html)
+## MERN Stack
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="50">](https://www.typescriptlang.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" height="50">](https://expressjs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js Logo" height="50">](https://nodejs.org/en)
+
+MERN stands for [MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [React](https://react.dev/), and [Node](https://nodejs.org/en) which is soley [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) or even [TypeScript](https://www.typescriptlang.org/) web framework.  Can be used for websites that doesn't need a robust server.
 
 ## Versioning Control Tools
 [Git-Xet and XetHub](https://xethub.com/)
@@ -31,12 +34,6 @@ or
 ### GitHub Tools:
 * [GitHub](https://www.github.com/)
 * [GitHub Actions](https://docs.github.com/en/actions)
-* [GitHub Pages](https://pages.github.com/)
-
-## Cloud Computing Tools
-Mainly Amazon Web Service Tools
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="50">](https://aws.amazon.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" alt="AWS EC2 Logo" height="50">](https://aws.amazon.com/ec2/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="AWS S3 Logo" height="50">](https://aws.amazon.com/s3/)
 
 ## API and other coding Tools:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON logo" height="50">](https://www.json.org/json-en.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="XML logo" height="50">](https://www.w3.org/XML/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman Software Logo" height="50">](https://www.postman.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" height="50">](https://code.visualstudio.com/)
@@ -47,22 +44,7 @@ Mainly Amazon Web Service Tools
 ### JavaScript
 These are also useful that I could use for web development in JavaScript.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/)
-
-### Python
-These are mainly data analysis tools learned in Python.
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" height="50">](https://pandas.pydata.org/)
-
-## Languages
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="50">](https://www.typescriptlang.org/)
-
-## Databases
-### Relational
-[<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html)
-
-### Document Based
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/)
 
 ## Coding Concepts:
 * OOP
@@ -129,7 +111,7 @@ A group project of developers where we built a fake social media app to test our
 [<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" height="50">](https://go.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery Logo" height="50">](https://jquery.com/)
 
 ## Database Management Systems
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">](https://www.postgresql.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j Logo" height="50">](https://neo4j.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j Logo" height="50">](https://neo4j.com/)
 
 ## Deployment Tools
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx Logo" height="50">](https://www.nginx.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Gunicorn_logo_2010.svg" alt="Gunicorn Logo" height="50">](https://gunicorn.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="50">](https://www.docker.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud Logo" height="50">](https://cloud.google.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" alt="DigitalOcean Logo" height="50">](https://www.digitalocean.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" alt="Heroku Logo" height="50">](https://www.heroku.com/)
