@@ -1,38 +1,26 @@
 # About:
-
-Robert is a Python Stack Software Developer with junior level of experience.  Currently have a certification in Full Stack Web Development and has some of experience building web applications.
+Robert is a DevOps Engineer who has experience building web applications using Flask, Django, and/ or React.  Currently have a certification in Full Stack Web Development and learning Go.
 
 # Core Skill Set
 ## Main Stack
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" height="50">](https://git-scm.com/)
+Generally use [Python](https://www.python.org/) to build out APIs with [Flask](https://flask.palletsprojects.com/en/stable/) or [Django](https://www.djangoproject.com/) as the server side web framework and [React](https://react.dev/) as the single-page-rendering UI [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) web framework.  [Flask](https://flask.palletsprojects.com/en/stable/) is a very popular framework due to fast production towards building fast web APIs due to being easy to learn and ease of implement an API based microservice. [Django](https://www.djangoproject.com/) is very popular due to fast production towards building up web APIs due to built in features like a user login and authentification as well as an ORM to easily implement databases for any project that needs an API for monolithic types of jobs. [React](https://react.dev/) is the most popular SPA framework today because it makes sites run faster by only acessing the data on the server when needed.  Also like to use [Bootstrap](https://getbootstrap.com/) for styling web pages faster than CSS.
 
-Generally use [Django](https://www.djangoproject.com/) as the server side [Python](https://www.python.org/) web framework and [React](https://react.dev/) as the single-page-rendering UI [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) web framework.  [Django](https://www.djangoproject.com/) is very popular due to fast production towards building up web APIs due to built in features like a user login and authentification as well as an ORM to easily implement databases for any project that needs an API.  [React](https://react.dev/) is the most popular SPA framework today because it makes sites run faster by only acessing the data on the server when needed.  Also like to use [Bootstrap](https://getbootstrap.com/) for styling web pages faster than CSS.
+## Skills
+| Tool | Details |
+| ---- | ------- |
+| Languages | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="50">](https://www.typescriptlang.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [JSON](https://www.json.org/json-en.html) [XML](https://www.w3.org/XML/) |
+| Relational Databases (SQL) | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">](https://www.postgresql.org/) [<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html) | 
+| Document Based Databases | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/) |
+| Version Control Systems | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" height="50">](https://git-scm.com/) [GitHub](https://www.github.com/) |
+| Proxy Server | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx Logo" height="50">](https://www.nginx.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Gunicorn_logo_2010.svg" alt="Gunicorn Logo" height="50">](https://gunicorn.org/) |
+| CI/CD Tools | [YAML](https://yaml.org/), [GitHub Actions](https://docs.github.com/en/actions) |
+| Deployment Tools | [GitHub Pages](https://pages.github.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="50">](https://aws.amazon.com/) |
 
-## Database Options
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">](https://www.postgresql.org/) [<img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL Logo" height="50">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" height="50">](https://sqlite.org/index.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/)
-
-Relational Database options based off of SQL and useful for structured data: [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), and [SQLite](https://sqlite.org/index.html). Document-based Database option built off of JSON and useful for unstructured data [MongoDB](https://www.mongodb.com/).
-
-## Data Analysis
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" height="50">](https://pandas.pydata.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/)
-
-[NumPy](https://numpy.org/) for quick calculations and handling data. [Pandas](https://pandas.pydata.org/) for data manipulation and extraction. [Matplotlib](https://matplotlib.org/) for Data Visualization.
-
-## Deployment Tools
-### GitHub
-* [GitHub](https://www.github.com/): Version Control Management and Collaboration tool
-* [GitHub Actions](https://docs.github.com/en/actions): CI/CD
-* [GitHub Pages](https://pages.github.com/): Deploy static pages
-
-### Cloud Computing Tools
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="50">](https://aws.amazon.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" alt="AWS EC2 Logo" height="50">](https://aws.amazon.com/ec2/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="AWS S3 Logo" height="50">](https://aws.amazon.com/s3/)
-
-Mainly only know [AWS](https://aws.amazon.com/) with [AWS EC2](https://aws.amazon.com/ec2/) is AWS' IaaS (Infrastructure as a Service) tool and [AWS S3](https://aws.amazon.com/s3/) is AWS' Cloud Object Storage tool.
-
-### Other Tools
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx Logo" height="50">](https://www.nginx.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Gunicorn_logo_2010.svg" alt="Gunicorn Logo" height="50">](https://gunicorn.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/)
-
-[Nginx](https://www.nginx.com/) is a HTTP server proxy tool. [Gunicorn](https://gunicorn.org/) is the Python implementation of Nginx. [YAML](https://yaml.org/) is a data serialization tool really good with CI/CD and Deployment. [Cypress](https://www.cypress.io/) is a JavaScript end-to-end testing framework.  API tools are [JSON](https://www.json.org/json-en.html) and [XML](https://www.w3.org/XML/).
+| Language and Cloud Platform | Packages and Frameworks |
+| -------- | -------- |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) | [Flask](https://flask.palletsprojects.com/en/stable/) [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" height="50">](https://pandas.pydata.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="50">](https://www.typescriptlang.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" height="50">](https://expressjs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js Logo" height="50">](https://nodejs.org/en) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/) |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="50">](https://aws.amazon.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" alt="AWS EC2 Logo" height="50">](https://aws.amazon.com/ec2/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="AWS S3 Logo" height="50">](https://aws.amazon.com/s3/)
 
 # Project(s):
 ## Current Project(s):
@@ -82,16 +70,7 @@ A group project of developers where we built a fake social media app to test our
 * Owned the design of a scalable database schema built with [MySQL](https://www.mysql.com/) to user input data including saving user registration, posts, and comment information.
 * Modularized the app with [Flask](https://flask.palletsprojects.com/en/stable/) to handle the server-database interaction and engineered routes of the controllers for posts and users so that each web page will be routed to correct HTML templates.
 
-# Other Tools I can use
-## MERN Stack
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="50">](https://www.typescriptlang.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" height="50">](https://expressjs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js Logo" height="50">](https://nodejs.org/en)
-
-MERN stands for [MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [React](https://react.dev/), and [Node](https://nodejs.org/en) which is soley [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) or even [TypeScript](https://www.typescriptlang.org/) web framework.  Can be used for websites that doesn't need a robust server.
-
-## Flask Stack
-Can use [Flask](https://flask.palletsprojects.com/en/stable/) instead of Django as the server side web framework for smaller scale websites in Python development.
-
-## Data Structures and Algorithms
+# Data Structures and Algorithms
 List of my practice with Data Structures and Algorithms
 1. [Python](https://github.com/robert-godlewski/python_algo)
 2. [TypeScript](https://github.com/robert-godlewski/ts_algo)
